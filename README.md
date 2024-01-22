@@ -112,7 +112,7 @@ Entropy-Based Fuzzy Clustering for handling uncertainty explicitly.
 
 
 
-# Considerations
+# Considerations 💡
 Pay attention to algorithm sensitivity to parameters and initialization.
 Evaluate computational efficiency, especially for large datasets.
 Understand interpretability challenges, especially in fuzzy clustering.
