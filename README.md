@@ -1,7 +1,7 @@
 # Applying-different-unsupervised-learning-techniques 📡
 
 
-Introduction:
+#Introduction:
 In our dataset exploration, we emphasize a meticulous approach to data preprocessing, ensuring the quality and relevance of our analysis. Data preprocessing involves cleaning, transforming, and organizing the raw data to enhance its suitability for subsequent analysis. Once the data is refined, we apply various unsupervised clustering techniques to discern underlying patterns, relationships, and structures within the dataset.
 
 
