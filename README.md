@@ -38,11 +38,11 @@ Difficulty with clusters of varying densities.
 
 # 2.Gaussian Mixture Model (GMM):
 
-Strengths:
+##Strengths:
 Provides soft assignments with probabilities.
 Effective for data modeled by Gaussian distributions.
 Flexibility in covariance modeling.
-Weaknesses:
+##Weaknesses:
 Sensitive to initialization.
 Assumes Gaussian distributions.
 Challenging with high-dimensional data.
@@ -52,11 +52,11 @@ Challenging with high-dimensional data.
 
 # 3.Hierarchical Clustering:
 
-Strengths:
+##Strengths:
 Provides a hierarchy of clusters.
 No assumption of cluster shape.
 No need for prior specification of the number of clusters.
-Weaknesses:
+##Weaknesses:
 Computationally expensive, especially for large datasets.
 Difficulty with uneven cluster sizes.
 Sensitive to the choice of distance metric.
@@ -66,11 +66,11 @@ Sensitive to the choice of distance metric.
 
 # 4.Fuzzy C-means:
 
-Strengths:
+##Strengths:
 Soft clustering with nuanced cluster membership.
 Robust to noise and outliers.
 Suitable for ambiguous cluster boundaries.
-Weaknesses:
+##Weaknesses:
 Performance sensitive to the number of clusters.
 Interpretability challenges.
 Initialization sensitivity.
@@ -81,11 +81,11 @@ Initialization sensitivity.
 
 # 5.Entropy-Based Fuzzy Clustering:
 
-Strengths:
+##Strengths:
 Explicit handling of uncertainty with entropy.
 Adapts to varying data densities and shapes.
 Well-suited for datasets with ambiguous or uncertain cluster assignments.
-Weaknesses:
+##Weaknesses:
 Algorithm complexity in entropy calculation.
 Dependency on parameter settings.
 Interpretability challenges.
