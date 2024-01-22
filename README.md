@@ -25,11 +25,11 @@ The selected unsupervised techniques include:
 
 # 1.DBSCAN (Density-Based Spatial Clustering of Applications with Noise):
 
-Strengths:
+# Strengths:
 Handles arbitrary cluster shapes.
 Robust to noise and outliers.
 Automatic cluster detection.
-Weaknesses:
+# Weaknesses:
 Sensitive to parameter choices.
 Difficulty with clusters of varying densities.
 
